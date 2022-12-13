@@ -43,7 +43,7 @@ $(function () {
         //hide effect
         $("#fruit1").hide("explode", 500);
         //send a new fruit
-        setTimeout(startAction, 800);
+        setTimeout(startAction, 700);
     });
 
     function addHearts() {
